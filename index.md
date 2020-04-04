@@ -4,12 +4,18 @@
 
 ### Work Experience 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[.NET MVC Development](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>\	
+1. Part of defect remediation team as well, worked in analysing and resolving defects.
+2. Part of .NET Development team where we developed a Web Based Application using C#, jQuery, MVC Architecture, JavaScript, HTML and CSS.
+3. Interacting with Data Domain Leads and Line of Business (LOBs) to explain the root cause analysis and recommendation to them
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Angular Development](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+	1. Building the front-end of new web-based application from scratch using Angular 7, Bootstrap, HTML and CSS.
+	2. Following the Agile methodology and getting good hands on Git.
+	3. Getting the requirement details from Line of Business along with Data Domain Leads.
 
 ---
 [Project 3 Title](http://example.com/)
