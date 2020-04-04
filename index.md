@@ -27,11 +27,11 @@
 ### Projects
 
 - [Project 1 Title](http://example.com/)
-- [Investment Portfolio Manager](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+The Projects I have build are Portfolio Manager (Desktop App), Dictionary (Database App) and Website Blocker (Web App using scripting). Specifically the python applications I have build are :
+
+	1. Dictionary - It is a program that returns English-word Definition along with suggestions for correct search if the input by user contains some spelling error. 
+	2. Website Blocker - A scripts that runsa task scheduled at startup of your machine to blocks access to distracting websites for the time interval chosen.
+	3. Investment Manager - It is a desktop based graphical executable program made using tkinter with a database backend.
 
 ---
 
