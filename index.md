@@ -13,9 +13,10 @@
 ---
 [Angular Development](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-	1. Building the front-end of new web-based application from scratch using Angular 7, Bootstrap, HTML and CSS.
-	2. Following the Agile methodology and getting good hands on Git.
-	3. Getting the requirement details from Line of Business along with Data Domain Leads.
+1. Building the front-end of new web-based application from scratch using Angular 7, Bootstrap, HTML and CSS.
+2. Following the Agile methodology and getting good hands on Git.
+3. Getting the requirement details from Line of Business along with Data Domain Leads.
+4. Continuing contributing in enhancing the old legacy .NET Web-Application.
 
 ---
 [Project 3 Title](http://example.com/)
