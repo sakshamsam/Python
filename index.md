@@ -6,6 +6,7 @@
 
 [.NET MVC Development (Jan'19 - Jan'20)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+CAN EXPLAN MORE ABT DMAT
 1. Part of defect remediation team as well, worked in analysing and resolving defects.
 2. Part of .NET Development team where we developed a Web Based Application using C#, jQuery, MVC Architecture, JavaScript, HTML and CSS.
 3. Interacting with Data Domain Leads and Line of Business (LOBs) to explain the root cause analysis and recommendation to them
