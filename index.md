@@ -26,6 +26,7 @@
 
 ### Projects
 
+- [Project Title 1]("http:\\example.com")
 - The Projects I have build are Portfolio Manager (Desktop App), Dictionary (Database App) and Website Blocker (Web App using scripting). Specifically the python applications I have build are :
 
 	1. Dictionary - It is a program that returns English-word Definition along with suggestions for correct search if the input by user contains some spelling error. 
