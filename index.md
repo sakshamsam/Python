@@ -6,7 +6,6 @@
 
 [.NET MVC Development (Jan'19 - Jan'20)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-CAN EXPLAN MORE ABT DMAT
 1. Part of Web development team developing Data Management Adherence Tracker Web App, worked in analysing and resolving defects in application and enhancing it with new features.
 2. Used .NET Development where we developed using other technologies like C#, jQuery, MVC Architecture, JavaScript, SQL, HTML and CSS.
 3. Interacting with Data Domain Leads and Line of Business (LOBs) to explain the root cause analysis and recommendation to them.
