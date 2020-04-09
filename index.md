@@ -31,8 +31,16 @@ Angular Development (Jan'20 - Present)
 ### Certifications
 
 - [NCFM Financial Analysis](/pdf/ncfm.pdf)
-- CFA Investment Foundation
-- Reiki All Levels
-- Mobile Robotics
+- [CFA Investment Foundation](/pdf/ncfm.pdf)
+- [Reiki Master](/pdf/ncfm.pdf)
+- [Mobile Robotics](/pdf/ncfm.pdf)
+
+---
+
+### Hobbies and Extra Curricular
+
+- Drawing
+- Cricket
+- Reading
 
 ---
