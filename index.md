@@ -12,7 +12,6 @@
 
 ---
 [Angular Development (Jan'20 - Present)](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 1. Building the front-end of new web-based application from scratch using Angular 7, Bootstrap, HTML and CSS.
 2. Following the Agile methodology and getting good hands on Git.
 3. Getting the requirement details from Line of Business along with Data Domain Leads.
@@ -22,7 +21,6 @@
 
 ### Projects
 
-- [Project Title 1](http://example.com/)
 - The Projects I have build are Portfolio Manager (Desktop App), Dictionary (Database App) and Website Blocker (Web App using scripting). Specifically the python applications I have build are :
 
 	1. [Dictionary](http://example.com/) - It is a program that returns English-word Definition along with suggestions for correct search if the input by user contains some spelling error. 
