@@ -19,7 +19,9 @@ Angular Development (Jan'20 - Present)
 ---
 
 ### Projects
-(/images/bootstrap.jpg)(/images/angular.png)(/images/python.jpg)
+<img src="images/bootstrap.jpg?raw=true"/>
+<img src="images/angular.png?raw=true"/>
+<img src="images/python.jpg?raw=true"/>
 
 - The Projects I have build are Portfolio Manager (Desktop App), Dictionary (Database App) and Website Blocker (Web App using scripting). Specifically the python applications I have build are :
 
