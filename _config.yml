@@ -5,4 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br><br><br>
   Senior Software Engineer I 
   <br><br>
-  <a href="https://www.linkedin.com/in/saksham-jain-2204/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/saksham-jain-2204/">View My LinkedIn Profile</a>
+  
+  theme: jekyll-theme-minimal
