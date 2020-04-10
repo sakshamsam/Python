@@ -51,7 +51,7 @@ Angular Development (Jan'20 - Present)
 
 <img src="images/books/richdad.jpg?raw=true"/><img src="images/books/beatmarket.jpg?raw=true"/>
 <img src="images/books/godbanker.jpg?raw=true"/><img src="images/books/winfriends.jpg?raw=true"/>
-<img src="images/books/thinkgrowrich.jpg?raw=true"/><img src="images/books/richdad.jpg?raw=true"/>
+<img src="images/books/thinkngrowrich.jpg?raw=true"/>
 <img src="images/books/7habits.jpg?raw=true"/><img src="images/books/alchemist.jpg?raw=true"/>
 <img src="images/books/subtleart.jpg?raw=true"/><img src="images/books/outliers.jpg?raw=true"/>
 <img src="images/books/chooseyourself.jpg?raw=true"/><img src="images/books/kiterunner.jpg?raw=true"/>
