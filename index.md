@@ -49,11 +49,16 @@ Angular Development (Jan'20 - Present)
 
 ### Books I've Read
 
-<img src="images/python.png?raw=true"/><img src="images/tkinter.png?raw=true"/>
-<img src="images/angular.png?raw=true"/><img src="images/bootstrap.png?raw=true"/>
-<img src="images/excel.png?raw=true"/><img src="images/dotnetmvc.png?raw=true"/>
-<img src="images/sql.png?raw=true"/><img src="images/htmlcssjs.png?raw=true"/>
-<img src="images/photoshop.png?raw=true"/>
+<img src="images/books/richdad.jpg?raw=true"/><img src="images/books/beatmarket.jpg?raw=true"/>
+<img src="images/books/godbanker.jpg?raw=true"/><img src="images/books/winfriends.jpg?raw=true"/>
+<img src="images/books/thinkgrowrich.jpg?raw=true"/><img src="images/books/richdad.jpg?raw=true"/>
+<img src="images/books/7habits.jpg?raw=true"/><img src="images/books/alchemist.jpg?raw=true"/>
+<img src="images/books/subtleart.jpg?raw=true"/><img src="images/books/outliers.jpg?raw=true"/>
+<img src="images/books/chooseyourself.jpg?raw=true"/><img src="images/books/kiterunner.jpg?raw=true"/>
+<img src="images/books/manssearch.jpg?raw=true"/><img src="images/books/lostsymbol.jpg?raw=true"/>
+<img src="images/books/orientexpress.jpg?raw=true"/><img src="images/books/therewerenone.jpg?raw=true"/>
+<img src="images/books/krishnakey.jpg?raw=true"/><img src="images/books/shiva1.jpg?raw=true"/>
+<img src="images/books/shiva2.jpg?raw=true"/><img src="images/books/shiva3.jpg?raw=true"/>
 
 ---
 
