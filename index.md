@@ -20,9 +20,10 @@ Angular Development (Jan'20 - Present)
 
 ### Projects
 <img src="images/bootstrap.png?raw=true"/><img src="images/angular.png?raw=true"/>
-<img src="images/python.png?raw=true"/>
-<img src="images/tkinter.png?raw=true"/>
-<img src="images/sql.png?raw=true"/>
+<img src="images/python.png?raw=true"/><img src="images/excel.png?raw=true"/>
+<img src="images/tkinter.png?raw=true"/><img src="images/dotnetmvc.png?raw=true"/>
+<img src="images/sql.png?raw=true"/><img src="images/htmlcssjs.png?raw=true"/>
+<img src="images/photoshop.jpg?raw=true"/>
 
 - The Projects I have build are Portfolio Manager (Desktop App), Dictionary (Database App) and Website Blocker (Web App using scripting). Specifically the python applications I have build are :
 
