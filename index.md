@@ -49,25 +49,7 @@ Angular Development (Jan'20 - Present)
 
 ### Books I've Read
 
-<img width="113" height="179" src="images/books/richdad.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/beatmarket.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/godbanker.jpg?raw=true"/>
-<im width="113" height="179" src="images/books/winfriends.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/thinkngrowrich.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/7habits.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/alchemist.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/subtleart.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/outliers.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/chooseyourself.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/kiterunner.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/manssearch.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/lostsymbol.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/orientexpress.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/therewerenone.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/krishnakey.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/shiva1.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/shiva2.jpg?raw=true"/>
-<img width="113" height="179" src="images/books/shiva3.jpg?raw=true"/>
+<img width="113" height="179" src="images/books/richdad.jpg?raw=true"/><img width="113" height="179" src="images/books/beatmarket.jpg?raw=true"/><img width="113" height="179" src="images/books/godbanker.jpg?raw=true"/><im width="113" height="179" src="images/books/winfriends.jpg?raw=true"/><img width="113" height="179" src="images/books/thinkngrowrich.jpg?raw=true"/><img width="113" height="179" src="images/books/7habits.jpg?raw=true"/><img width="113" height="179" src="images/books/alchemist.jpg?raw=true"/><img width="113" height="179" src="images/books/subtleart.jpg?raw=true"/><img width="113" height="179" src="images/books/outliers.jpg?raw=true"/><img width="113" height="179" src="images/books/chooseyourself.jpg?raw=true"/><img width="113" height="179" src="images/books/kiterunner.jpg?raw=true"/><img width="113" height="179" src="images/books/manssearch.jpg?raw=true"/><img width="113" height="179" src="images/books/lostsymbol.jpg?raw=true"/><img width="113" height="179" src="images/books/orientexpress.jpg?raw=true"/><img width="113" height="179" src="images/books/therewerenone.jpg?raw=true"/><img width="113" height="179" src="images/books/krishnakey.jpg?raw=true"/><img width="113" height="179" src="images/books/shiva1.jpg?raw=true"/><img width="113" height="179" src="images/books/shiva2.jpg?raw=true"/><img width="113" height="179" src="images/books/shiva3.jpg?raw=true"/>
 
 ---
 
