@@ -49,7 +49,7 @@ Angular Development (Jan'20 - Present)
 
 ### Books I've Read
 
-<img width="179" height="113" src="images/books/richdad.jpg?raw=true"/><img src="images/books/beatmarket.jpg?raw=true"/>
+<img width="179" height="140" src="images/books/richdad.jpg?raw=true"/><img src="images/books/beatmarket.jpg?raw=true"/>
 <img src="images/books/godbanker.jpg?raw=true"/><img src="images/books/winfriends.jpg?raw=true"/>
 <img src="images/books/thinkngrowrich.jpg?raw=true"/>
 <img src="images/books/7habits.jpg?raw=true"/><img src="images/books/alchemist.jpg?raw=true"/>
